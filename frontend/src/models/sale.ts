@@ -5,6 +5,6 @@ export type Sale = {
         visited: number;
         deals: number;
         amount: number;
-        date: number;
+        date: string;
 
 }
