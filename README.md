@@ -4,6 +4,7 @@
 ### 🏷️Sobre o Projeto:
 
 Aplicação para análise de vendas por período Com possibilidade de envio de sms com dados da venda selecionada
+![imagem de vários dispositivos usando a aplicação](https://github.com/Rayane420/Semana-Spring-React/blob/main/telas.png)
 
 ### ⚙️As principais funcionalidades são:
 
