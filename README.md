@@ -42,4 +42,4 @@ Você pode acessar a aplicação em produção através do link: https://vendas-
 
 ### 📭Caso você encontre um bug/ponto de melhoria nessa aplicação
 
-Você poderá enviar seu report aqui: https://github.com/Rayane420/Semana-Spring-React/issues
+Você poderá enviar seu report aqui: https://github.com/Rayane420/Semana-Spring-React/issues 
