@@ -1,4 +1,4 @@
-# Semana-Spring-React
+## Semana-Spring-React
 ### Aplicação DSMETA para verificação e análise de vendas
 
 ### 🏷️Sobre o Projeto:
