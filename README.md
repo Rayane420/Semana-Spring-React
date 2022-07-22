@@ -36,7 +36,7 @@ Para ter uma cópia desse projeto na sua máquina basta executar a linha de coma
 git clone https://github.com/Rayane420/ControleFinanceiro.git
 ```
 ### Deploy 🖥️🖱️
-Após o desenvolvimento fizemos o deploy do backend no Heroku e do front end no Netlify
+Após o desenvolvimento foi realizado o deploy do backend no Heroku e do front end no Netlify
 Você pode acessar a aplicação em produção através do link: https://vendas-dsmeta.netlify.app/
 
 ### 📭Caso você encontre um bug/ponto de melhoria nessa aplicação
