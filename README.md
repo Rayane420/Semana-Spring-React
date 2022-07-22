@@ -3,7 +3,7 @@
 
 ### 🏷️Sobre o Projeto:
 
-Projeto com o objetivo de desenvolver uma aplicação para análise de vendas por período e enviar sms com os dados da venda selecionada
+Aplicação para análise de vendas por período Com possibilidade de envio de sms com dados da venda selecionada
 
 ### ⚙️As principais funcionalidades são:
 
